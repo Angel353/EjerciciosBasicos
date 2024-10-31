@@ -11,7 +11,15 @@ def suma():
     
 print("Esta es el resultado de sumar los números que colocaste: ", suma())
 
+
 def multiplicacion():
     return a * b
 
 print("Este es el resultado de multiplicar los números que colocaste: ", multiplicacion())
+
+def resta():
+    return a - b 
+
+print("Esta es el resultado de restar los números que colocaste: ", resta())
+
+print("Esta parte corresponde a la multiplicación:")
