@@ -10,3 +10,5 @@ def suma():
     return a + b
     
 print("Esta es el resultado de sumar los números que colocaste: ", suma())
+
+print("Esta parte corresponde a la multiplicación:")
